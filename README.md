@@ -26,7 +26,7 @@ Than export like a Runnable Jar as showed in picture.
 <img src="export1.png" width="450" height="300"> <img src="export2.png" width="450" height="300">
     
 
-The main idea of this project is to simulate several bus rides in the city of Bologna and to provide statistics at the end of the simulation. When the application starts, you can set some parameters, like which bus simulate (actually there are three option), number of days to simulate, number of rides for each bus, ticket price for a single ride etc..
+The main idea of this project is to simulate several bus rides in the city of Bologna and to provide statistics at the end of the simulation. When the application starts, you can set some parameters, like which bus must be simulated (actually there are three options), number of days to simulate, number of rides for each bus, ticket price for a single ride etc..
 
 <img src="start.png" width="300" height="200">
 
